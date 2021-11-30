@@ -1,6 +1,6 @@
 # ZenDesk Coding Challenge
-ZenDesk Coding Challenge Summer internship 2022
-This is simple console application.
+- Summer internship 2022
+- This is simple console application.
 
 # Prerequisite 
 - Python 3.8
