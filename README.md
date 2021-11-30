@@ -12,7 +12,7 @@
 
       https://<<yourdoamin>>.zendesk.com/admin/apps-integrations/apis/apis/settings
 
-    ![image](output/EBA.png)
+![image](output/EBA.png)
 
 # Steps To Run
 - Clone the repository
