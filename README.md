@@ -12,7 +12,7 @@
 
       https://<<yourdoamin>>.zendesk.com/admin/apps-integrations/apis/apis/settings
 
-![image](output/EBA.png)
+![image](output/EBA.PNG)
 
 # Steps To Run
 - Clone the repository
@@ -35,11 +35,11 @@
 # Sample Output    
 - Authenticate
 
-     ![image](output/AUTH.png)
+     ![image](output/AUTH.PNG)
 
 - Get single Ticket without authentication
     
-     ![image](output/UAT.png)
+     ![image](output/UAT.PNG)
 - Get single Ticket with authentication
 
      ![image](output/AT.png)
